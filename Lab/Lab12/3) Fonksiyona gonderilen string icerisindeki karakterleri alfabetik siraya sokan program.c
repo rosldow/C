@@ -1,0 +1,1 @@
+//Fonksiyona gonderilen string icerisindeki karakterleri alfabetik siraya sokan program.//
